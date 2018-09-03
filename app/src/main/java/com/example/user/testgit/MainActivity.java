@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG,"onCreate()");
         showToast();
         showToast();
-        showToast();
     }
 
     private void showToast(){
