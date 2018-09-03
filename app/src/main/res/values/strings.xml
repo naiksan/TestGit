@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">TestGit</string>
-    <string name="title_activity_fab">FabActivity</string>
+    <string name="title_activity_fab">Fab Activity</string>
 </resources>
